@@ -1,0 +1,7 @@
+[package]
+name = "rundler-script"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rundler-types = { git = "https://github.com/alchemyplatform/rundler.git" }
